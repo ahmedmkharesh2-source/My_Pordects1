@@ -1,0 +1,152 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Robot","sans-serif";
+    /*  Aske  */
+    text-decoration: none; 
+    color: black;
+}
+.mynavbar{
+    display: flex;
+    /* justify-content: space-around; */
+    justify-content: space-between;
+    margin:10px auto;
+    
+}
+
+.imlogin{
+width: 80px;
+height: 70px;
+margin: 5px;
+
+border-radius: 50%;
+}
+.mlist-items{
+    margin-top: 20px;
+    display: flex;
+}
+.mlist-items li{
+    list-style: none;
+    padding: 0 15px;
+    font-size: 15px;
+}
+.login{
+    border-radius: 20px;
+    width: 80px;
+    margin:10px ;
+    border: none;
+    background-color:orange;
+    color: white;
+    padding: 7px;
+}
+.bannar-img{
+    width: 100%;
+    height: 20%;
+}
+.prodects-heading{
+    text-align: center;
+    margin: 25px 0;
+    font-weight: 40px;
+
+}
+.prodects{
+    margin: 20px 25px;
+    display: flex;
+}
+/* Porodects */
+.Porodects{
+    text-align: center;
+    margin-bottom: 40px ;
+}
+.prodects img{
+    width: 150px;
+    height: auto;
+    margin-left: 8px;
+
+}
+.prodects p{
+    margin: 30px;
+}
+
+/* second */
+.mfoter{
+    display: flex;
+    justify-content: space-between;
+    background-color: orange;
+}
+/* new disgen----- */
+
+.Content{
+  text-align: center;
+  margin: 20px auto;
+}
+
+.prodect-Page-heading{
+    width: 200px;
+    margin: 20px 0;
+    font-weight: 300px;
+}
+
+.prodect-Page {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between;
+    
+}
+.prodect-Page  div{
+    width: 270px ;
+      margin: 20 10px;
+    
+}
+
+.prodect-Page img{
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+}
+.prodect-Page h2{
+  font-weight: 300px;
+  font-size: 22px;
+  margin: 15px 0;
+}
+.prodect-Page p{
+ font-weight: 200px;
+  font-size: 12px;
+  letter-spacing: 2px;
+}
+
+
+.prodect-Page h5{
+    font-weight: 300px;
+    margin: 10px 0;
+  font-size: 20px;
+}
+/* about new */
+.aboth1{
+    text-align: center;
+    font-weight: 400px;
+    font-size: 40px;
+    /* margin: 15px; */
+    margin-bottom: 20px;
+}
+.abouth2{
+    margin-left: 665px; 
+    margin-top: 90px;
+}
+.about-new{
+        display: flex;
+        margin-left: 340px;
+}
+.about-new p{
+     margin-left: 20px;
+    /* margin-top: 80px; */
+}
+.about-new img{
+
+    width: 300px;
+    height: 300px;
+    border: none;
+    border-radius: 50%;
+    margin-top: 0;
+
+}
